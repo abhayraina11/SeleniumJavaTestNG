@@ -1,0 +1,10 @@
+{
+    "validLoginData": [
+        {"userID": "Admin", "pass": "admin123"},
+        {"userID": "Admin", "pass": "admin123"}
+    ],
+    "invalidLoginData": [
+        {"userID": "Admin1", "pass": "wrongpassword"},
+        {"userID": "Admin2", "pass": "12345"}
+    ]
+}
